@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582677282 source:c:\users\mickb\desktop\engg1003 labs\task10tryagain\main.c
+	<stdio.h>
+	<stdlib.h>
+
